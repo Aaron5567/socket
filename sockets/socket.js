@@ -1,8 +1,8 @@
 //mensja de sockets
 
-const {io} = require('../index');
-const Band = require('../models/band');
-const Bands = require('../models/Bands');
+const {io} = require('./index');
+const Band = require('./models/band');
+const Bands = require('./models/Bands');
 
 const bands =  new Bands();
 
