@@ -1,9 +1,15 @@
 //mensja de sockets
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 const {io} = require('../index');
 const Band = require('../models/band');
 const Bands = require('../models/bands');
+=======
+const {io} = require('./index');
+const Band = require('./models/band');
+const Bands = require('./models/Bands');
+>>>>>>> 7ce3b6131f85b463e7a4d183f5de881c44fa10b0
 =======
 const {io} = require('./index');
 const Band = require('./models/band');
